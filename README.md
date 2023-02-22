@@ -92,3 +92,7 @@ To test the generalization of the models, two datasets are used in this project:
 ### StyleGAN3
 
 <img src="/assets/images/result_s3.JPG">
+
+## Reference
+
+For more information about this project, please check out this [report paper](https://github.com/marswon0/face_image_generation/blob/main/assets/paper/Face%20Image%20Generation%20Through%20GANs.pdf).
